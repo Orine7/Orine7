@@ -8,7 +8,7 @@
  
   <details>
     <summary>About me</summary>
-    <p>I'm a <span id="age">My Age</span> backend developer. I started coding in
+    <p>I'm a backend developer. I started coding in
     my final high school years, there I read a book about programming logic using python.
    Later I made a rudementary AI using Tensoflow and 
    <a href="https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a" >sentdex's video series</a> 
@@ -80,15 +80,6 @@
   
   
 </div>
-
-<details>
-  <script >
-          var ageDifMs = Date.now() - new Date(1999, 06, 07).getTime();
-          var ageDate = new Date(ageDifMs); 
-          var yearDiff = Math.abs(ageDate.getUTCFullYear() - 1970);
-          document.getElementById("age").innerHTML = yearDiff + " years old";
-  </script>
-</details>
 
 <a href='https://www.linkedin.com/in/orine7/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
