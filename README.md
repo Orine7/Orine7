@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
   <a href="https://github.com/Orine7">Hi! Welcome to my git!</a>
 </div>
