@@ -3,7 +3,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
@@ -11,7 +11,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 223 Contributions in the Year 2022
+> 🏆 220 Contributions in the Year 2022
  > 
 > 📦 32.8 kB Used in GitHub's Storage 
  > 
@@ -80,7 +80,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Orine7/Orine7/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/05/2022 17:49:19 UTC
+ Last Updated on 10/05/2022 17:57:23 UTC
 <!--END_SECTION:waka-->
 
 **I'm an early 🐤**
