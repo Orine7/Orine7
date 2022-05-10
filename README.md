@@ -1,7 +1,7 @@
 <div>
-  <STYLE>
+  <style>
     A {text-decoration: none; color: inherit}
-  </STYLE>
+  </style>
   <a href="https://github.com/Orine7">
     <h2 align=center >Hi! Welcome to my git!</h2>
   </a>
