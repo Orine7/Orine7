@@ -1,11 +1,6 @@
-<style style="visibility:hidden">
-    A {text-decoration: none; color: inherit}
-  </style>
-
 <div>
-  
   <a href="https://github.com/Orine7">
-    <h2 align=center >Hi! Welcome to my git!</h2>
+    <h2 align=center style="text-decoration: none; color: inherit" >Hi! Welcome to my git!</h2>
   </a>
 </div>
 
@@ -86,12 +81,14 @@
   
 </div>
 
-<script style="visibility:hidden">
-        var ageDifMs = Date.now() - new Date(1999, 06, 07).getTime();
-        var ageDate = new Date(ageDifMs); 
-        var yearDiff = Math.abs(ageDate.getUTCFullYear() - 1970);
-        document.getElementById("age").innerHTML = yearDiff + " years old";
-</script>
+<details>
+  <script >
+          var ageDifMs = Date.now() - new Date(1999, 06, 07).getTime();
+          var ageDate = new Date(ageDifMs); 
+          var yearDiff = Math.abs(ageDate.getUTCFullYear() - 1970);
+          document.getElementById("age").innerHTML = yearDiff + " years old";
+  </script>
+</details>
 
 <a href='https://www.linkedin.com/in/orine7/'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
