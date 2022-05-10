@@ -14,9 +14,6 @@
    <a href="https://www.youtube.com/watch?v=ks4MPfMq8aQ&list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a" >sentdex's video series</a> 
   . After that I got a job as a data scientist in a government company, and I 
   started to learn more about data handling and web development.
-  </p>
-
-    <p>
       In my final college years, I started a new job as a backend developer at Viuzz. Here I learned
       and improved most of my programming skills, and I also learned how to work with a team.
       I began to use NestJs, therefore i learned more about backend development and typescript.
